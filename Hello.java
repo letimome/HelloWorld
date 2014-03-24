@@ -1,7 +1,7 @@
 public class Hello {
 
 	protected void print() {
-		System.out.print("beutiful");
+		System.out.print(" world");
 	}
 	
 
