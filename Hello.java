@@ -1,9 +1,5 @@
-public class Hello {
-
-	protected void print() {
-		original();
-		System.out.print(" world");
-	}
+ public   class  Hello {
 	
 
-}
+	private void  print__wrappee__master  () {
+		System.out.print("Hello")
